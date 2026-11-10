@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EX9 CLASSIFICAÇÃO DE TRIANGULOS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ebad1591df8ad241a7e94c678345a9377e846047")]
 [assembly: System.Reflection.AssemblyProductAttribute("EX9 CLASSIFICAÇÃO DE TRIANGULOS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EX9 CLASSIFICAÇÃO DE TRIANGULOS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

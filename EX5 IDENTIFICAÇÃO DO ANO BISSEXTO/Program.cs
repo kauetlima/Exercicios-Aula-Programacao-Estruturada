@@ -9,13 +9,11 @@ int ano = 0;
 Console.WriteLine("Digite o ano que deseja saber se é ou foi bissexto: ");
 ano = int.Parse(Console.ReadLine());
 
-if ((ano % 4 == 0 || ano % 100 == 0) && ano < 2026)
+if ((ano % 4 ==0) && (ano % 100 != 0) || (ano % 400 == 0))
 {
-    Console.WriteLine("Esse foi um ano Bissexto");
-}
-else if ((ano % 4 == 0 || ano % 100 == 0)  && ano > 2026)
-{
-    Console.WriteLine("Esse irá ser um ano Bissexto");
+    Console.WriteLine("Ano Bissexto");
 }
 else
-    Console.WriteLine("Esse ano não é Bissexto");
+{
+    Console.WriteLine("Ano não Bissexto");
+}

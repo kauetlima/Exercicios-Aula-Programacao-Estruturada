@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EX3 CALCULO MÉDIA DO ALUNO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ebad1591df8ad241a7e94c678345a9377e846047")]
 [assembly: System.Reflection.AssemblyProductAttribute("EX3 CALCULO MÉDIA DO ALUNO")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EX3 CALCULO MÉDIA DO ALUNO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

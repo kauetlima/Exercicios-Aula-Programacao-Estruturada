@@ -1,7 +1,11 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\KauetLima\\source\\repos\\EXERCICIOS-AULA-PROGRAMACAO-ESTRUTURADA\\",
+  "WorkspaceRootPath": "C:\\Users\\KauetLima\\source\\repos\\Exercicios-Aula-Programacao-Estruturada\\",
   "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28AA86B6-1591-0C4A-07CD-ED299C0BFCE4}|EX5 IDENTIFICA\u00C7\u00C3O DO ANO BISSEXTO\\EX5 IDENTIFICA\u00C7\u00C3O DO ANO BISSEXTO.csproj|c:\\users\\kauetlima\\source\\repos\\exercicios-aula-programacao-estruturada\\ex5 identifica\u00E7\u00E3o do ano bissexto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28AA86B6-1591-0C4A-07CD-ED299C0BFCE4}|EX5 IDENTIFICA\u00C7\u00C3O DO ANO BISSEXTO\\EX5 IDENTIFICA\u00C7\u00C3O DO ANO BISSEXTO.csproj|solutionrelative:ex5 identifica\u00E7\u00E3o do ano bissexto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
     {
       "AbsoluteMoniker": "D:0:0:{D457B439-23DA-41F0-37F3-E5C4B8793E2F}|EX7 C\u00C1LCULO IMC\\EX7 C\u00C1LCULO IMC.csproj|c:\\users\\kauetlima\\source\\repos\\exercicios-aula-programacao-estruturada\\ex7 c\u00E1lculo imc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D457B439-23DA-41F0-37F3-E5C4B8793E2F}|EX7 C\u00C1LCULO IMC\\EX7 C\u00C1LCULO IMC.csproj|solutionrelative:ex7 c\u00E1lculo imc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -24,9 +28,22 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\KauetLima\\source\\repos\\EXERCICIOS-AULA-PROGRAMACAO-ESTRUTURADA\\EX7 C\u00C1LCULO IMC\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\KauetLima\\source\\repos\\Exercicios-Aula-Programacao-Estruturada\\EX5 IDENTIFICA\u00C7\u00C3O DO ANO BISSEXTO\\Program.cs",
+              "RelativeDocumentMoniker": "EX5 IDENTIFICA\u00C7\u00C3O DO ANO BISSEXTO\\Program.cs",
+              "ToolTip": "C:\\Users\\KauetLima\\source\\repos\\Exercicios-Aula-Programacao-Estruturada\\EX5 IDENTIFICA\u00C7\u00C3O DO ANO BISSEXTO\\Program.cs*",
+              "RelativeToolTip": "EX5 IDENTIFICA\u00C7\u00C3O DO ANO BISSEXTO\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T12:40:46.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KauetLima\\source\\repos\\Exercicios-Aula-Programacao-Estruturada\\EX7 C\u00C1LCULO IMC\\Program.cs",
               "RelativeDocumentMoniker": "EX7 C\u00C1LCULO IMC\\Program.cs",
-              "ToolTip": "C:\\Users\\KauetLima\\source\\repos\\EXERCICIOS-AULA-PROGRAMACAO-ESTRUTURADA\\EX7 C\u00C1LCULO IMC\\Program.cs",
+              "ToolTip": "C:\\Users\\KauetLima\\source\\repos\\Exercicios-Aula-Programacao-Estruturada\\EX7 C\u00C1LCULO IMC\\Program.cs",
               "RelativeToolTip": "EX7 C\u00C1LCULO IMC\\Program.cs",
               "ViewState": "AgIAADgAAAAAAAAAAAAAwGIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -35,16 +52,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\KauetLima\\source\\repos\\EXERCICIOS-AULA-PROGRAMACAO-ESTRUTURADA\\EX8 CALCULO DE AUMENTO SALARIAL\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\KauetLima\\source\\repos\\Exercicios-Aula-Programacao-Estruturada\\EX8 CALCULO DE AUMENTO SALARIAL\\Program.cs",
               "RelativeDocumentMoniker": "EX8 CALCULO DE AUMENTO SALARIAL\\Program.cs",
-              "ToolTip": "C:\\Users\\KauetLima\\source\\repos\\EXERCICIOS-AULA-PROGRAMACAO-ESTRUTURADA\\EX8 CALCULO DE AUMENTO SALARIAL\\Program.cs",
+              "ToolTip": "C:\\Users\\KauetLima\\source\\repos\\Exercicios-Aula-Programacao-Estruturada\\EX8 CALCULO DE AUMENTO SALARIAL\\Program.cs",
               "RelativeToolTip": "EX8 CALCULO DE AUMENTO SALARIAL\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-09T20:43:44.271Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-09T20:43:44.271Z"
             }
           ]
         }
