@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "EX 9 CLASSIFICAÇÃO DE TRIANGULOS/1.0.0": {
+        "runtime": {
+          "EX 9 CLASSIFICAÇÃO DE TRIANGULOS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EX 9 CLASSIFICAÇÃO DE TRIANGULOS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
